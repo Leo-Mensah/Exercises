@@ -10,4 +10,4 @@ for name in fname:
         else:
             lst.append(i)
 lst.sort()
-    print(flist)
+print(flist)
