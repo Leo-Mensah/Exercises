@@ -3,7 +3,7 @@ smallest = None
 
 while True:
     try:
-        num = input("Enter a number: ")
+        num = input("Enter a number \n Type done if completed: ")
         if num == 'done':
             break
         n = int(num)
